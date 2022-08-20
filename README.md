@@ -1,5 +1,5 @@
 # Bot4Mohanish
-<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://telegra.ph/file/85fe740b2385a55178500.jpg"/></a>
+<p align="center"> <a href="github.com/sanuwaofficial"><img align="center" src="https://i.ibb.co/LYJBhNJ/repo-image.png"/></a>
  <p align="center">
 <a href="https://github.com/Mohanish7777777/Bot4Mohanish"><img title="Followers" src="https://img.shields.io/github/followers/sanuwaofficial?e=flat-square"></a>
 <a href="https://github.com/Mohanish7777777/Bot4Mohanish/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/sanuwaofficial/AQUABOT-MD?color=blue&style=flat-square"></a>
